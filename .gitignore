@@ -1,0 +1,7 @@
+xcuserdata/ 
+*.xcuserdatad/
+*.xcworkspace/
+.idea/
+.DS_store
+*~
+
